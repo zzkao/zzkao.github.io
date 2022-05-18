@@ -303,6 +303,10 @@ h1:first-child {
   width:50%;
 }
 
+ul {
+  list-style-position: outside;
+}
+
 /* Nested ordered list for ToC */
 nav ol {
   counter-reset: item;
